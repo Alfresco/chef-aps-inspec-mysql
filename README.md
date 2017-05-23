@@ -11,5 +11,3 @@ verifier:
     - name: chef-aps-inspec-mysql
       git: https://github.com/Alfresco/chef-aps-inspec-mysql
 ```
-
-This Profile depends on [chef-aps-inspec-utils](https://github.com/Alfresco/chef-aps-inspec-utils) to import libraries and matchers
