@@ -1,0 +1,10 @@
+name: chef-aps-inspec-mysql
+title: InSpec Profile for chef-aps mysql
+maintainer: Alfresco Software
+copyright: Alfresco Software
+copyright_email: devops@alfresco.com
+license: Apache 2 license
+summary: An InSpec Compliance Profile
+version: 1.0
+supports:
+  - os-family: redhat
